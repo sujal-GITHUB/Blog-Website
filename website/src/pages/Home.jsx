@@ -21,7 +21,7 @@ function Home() {
                     <div className="flex flex-wrap">
                         <div className="p-2 w-full">
                             <Link to={'/login'}>
-                            <div className='flex justify-center mb-7'><img src="src\Lovepik_com-401592981-network-security-lock.png" alt="" width={500}/></div>
+                            <div className='flex justify-center mb-7'><img src="/Lovepik_com-401592981-network-security-lock.png" alt="" width={500}/></div>
                             <h1 className="text-2xl font-bold text-white hover:text-gray-500 cursor-pointer">
                                 Login Please
                             </h1>
